@@ -18,7 +18,7 @@ JavaScript:- To implement the logic of the calculator
 **Installation:-**
 
 1.Clone the repository:-
-git clone https://github.com/your-username/react-calculator.git
+git clone https://github.com/Gagan-chandru/calculator-using-react.git
 
 2.Install dependencies:-
 cd react-calculator
