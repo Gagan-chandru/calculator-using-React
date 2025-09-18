@@ -1,12 +1,27 @@
-# React + Vite
+#**React Calculator**
+A simple, interactive calculator built using React. This project demonstrates the use of React components, state management, and basic event handling to create a functional calculator application.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#**Features**
+Basic arithmetic operations (addition, subtraction, multiplication, division)
+Clear functionality (AC button)
+Display area showing current input and result.
+Delete button (Del) which deletes previously entered digit or operator and deletes the result if evaluated.
 
-Currently, two official plugins are available:
+#**Technologies Used**
+React:- Front-end JavaScript library for building user interfaces
+CSS:- For styling the calculator
+JavaScript:- To implement the logic of the calculator
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Installation:-**
+1.Clone the repository:-
+git clone https://github.com/your-username/react-calculator.git
 
-## Expanding the ESLint configuration
+2.Install dependencies:-
+cd react-calculator
+npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3.Start the app:-
+npm start
+
+
+Access the app at http://localhost:3000
