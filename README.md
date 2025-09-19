@@ -1,19 +1,23 @@
-**React Calculator**
+# 🧮 React Calculator
 
-A simple, interactive calculator built using React. This project demonstrates the use of React components, state management, and basic event handling to create a functional calculator application.
+A **simple, interactive calculator** built using **React**. This project demonstrates how to build a fully functional calculator using React components, state management (`useState`), and event handling.
 
-**Features**
 
-Basic arithmetic operations (addition, subtraction, multiplication, division)
-Clear functionality (AC button)
-Display area showing current input and result.
-Delete button (Del) which deletes previously entered digit or operator and deletes the result if evaluated.
+## ✨ Features
 
-**Technologies Used**
+- ➕ **Basic arithmetic operations** (Addition, Subtraction, Multiplication, Division)
+- 🧼 **Clear** all input and result using `AC` button
+- 🖥️ **Real-time display** of current input and result
+- ⌫ **Delete (Del)** button to:
+  - Remove the last digit/operator entered
+  - Clear the result if an expression was already evaluated
 
-React:- Front-end JavaScript library for building user interfaces
-CSS:- For styling the calculator
-JavaScript:- To implement the logic of the calculator
+## 🛠️ Technologies Used
+
+- ⚛️ **React** – Front-end library for building user interfaces
+- 🎨 **CSS** – For custom styling of the calculator layout and buttons
+- 📜 **JavaScript (ES6)** – For implementing calculator logic
+
 
 **Installation:-**
 
