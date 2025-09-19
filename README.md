@@ -27,7 +27,7 @@ A **simple, interactive calculator** built using **React**. This project demonst
 git clone https://github.com/Gagan-chandru/calculator-using-react.git
 
 2.Install dependencies:-
-- cd react-calculator
+- cd calculator-using-react
 - npm install
 
 3.Start the app:-
