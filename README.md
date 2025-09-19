@@ -2,7 +2,7 @@
 
 # 🧮 React Calculator
 
-A **simple, interactive calculator** built using **React**. This project demonstrates how to build a fully functional calculator using React components, React Hooks such as (`useState`) and (`useReducer`), and event handling.
+A **simple, interactive calculator** built using **React**. This project demonstrates how to build a fully functional calculator using React components, React Hooks such as (`useState`),(`useReducer`) and event handling.
 
 
 ## ✨ Features
@@ -21,7 +21,7 @@ A **simple, interactive calculator** built using **React**. This project demonst
 - 📜 **JavaScript (ES6)** – For implementing calculator logic
 
 
-**Installation:-**
+# Installation:-
 
 1.Clone the repository:-
 git clone https://github.com/Gagan-chandru/calculator-using-react.git
