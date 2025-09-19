@@ -1,4 +1,4 @@
-🔗 **Live Demo**: [View on Netlify](https://react-calculator-gagan.netlify.app)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://react-calculator-gagan.netlify.app)
 
 # 🧮 React Calculator
 
