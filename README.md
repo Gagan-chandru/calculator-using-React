@@ -21,7 +21,7 @@ A **simple, interactive calculator** built using **React**. This project demonst
 - 📜 **JavaScript (ES6)** – For implementing calculator logic
 
 
-# Installation:-
+### Installation:-
 
 1.Clone the repository:-
 git clone https://github.com/Gagan-chandru/calculator-using-react.git
