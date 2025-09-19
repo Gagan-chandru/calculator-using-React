@@ -1,3 +1,5 @@
+🔗 **Live Demo**: [View on Netlify](https://react-calculator-gagan.netlify.app)
+
 # 🧮 React Calculator
 
 A **simple, interactive calculator** built using **React**. This project demonstrates how to build a fully functional calculator using React components, React Hooks such as (`useState`) and (`useReducer`), and event handling.
