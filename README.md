@@ -13,7 +13,7 @@ A **simple, interactive calculator** built using **React**. This project demonst
 - ⌫ **Delete (Del)** button to:
   - Remove the last digit/operator entered
   - Clear the result if an expression was already evaluated
-
+- Resposive user interface which fits well in both desktop and small screens.
 ## 🛠️ Technologies Used
 
 - ⚛️ **React** – Front-end library for building user interfaces
