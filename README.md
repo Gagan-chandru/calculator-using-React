@@ -26,12 +26,12 @@ A **simple, interactive calculator** built using **React**. This project demonst
 ### Installation:-
 
 1.Clone the repository:-
-git clone https://github.com/Gagan-chandru/calculator-using-react.git
+- git clone https://github.com/Gagan-chandru/calculator-using-react.git
 
 2.Install dependencies:-
 - cd calculator-using-react
 - npm install
 
 3.Start the app:-
-npm start
+- npm start
 
